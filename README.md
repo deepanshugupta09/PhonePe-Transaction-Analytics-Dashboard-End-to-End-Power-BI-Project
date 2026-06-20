@@ -4,7 +4,7 @@
 
 An end-to-end **Power BI** dashboard built on a simulated PhonePe transactions dataset, covering the complete analytics workflow: data cleaning → data modeling (DAX) → KPI design → dashboarding → business insights.
 
-![Dashboard Preview]([./screenshots/dashboard_overview.png](https://github.com/deepanshugupta09/PhonePe-Transaction-Analytics-Dashboard-End-to-End-Power-BI-Project/blob/main/Dashboard%20JPG.JPG)
+![Dashboard Preview](https://github.com/deepanshugupta09/PhonePe-Transaction-Analytics-Dashboard-End-to-End-Power-BI-Project/blob/main/Dashboard%20JPG.JPG)
 
 ---
 
